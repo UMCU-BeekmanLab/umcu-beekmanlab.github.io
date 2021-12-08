@@ -1,5 +1,5 @@
 ---
-title: "Beekman Lab -- Data"
+title: "Beekman Lab - Data"
 layout: textlay
 excerpt: "Beekman Lab -- Data."
 sitemap: false

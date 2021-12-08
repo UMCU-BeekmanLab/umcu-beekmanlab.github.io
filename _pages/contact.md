@@ -1,7 +1,7 @@
 ---
 title: "Beekman Lab - Contact"
 layout: textlay
-excerpt: "Contact."
+excerpt: "Contact"
 sitemap: false
 permalink: /contact/
 ---
