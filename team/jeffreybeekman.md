@@ -9,6 +9,7 @@ github: umcu-beekmanlab
 scholar: etRwzD4AAAAJ
 photo: jeffreybeekman.jpg
 umcu: beekman-jm
+linkedin: jeffreybeekman
 ---
 
 ### Overview

@@ -101,8 +101,8 @@
   group: 3
 
 - name: ALUMNI
-  info: <Past position>
+  info: PhD Student
   group: 8
-  year: from-to
-  current: Current position
-  extlink: current website
+  year: 2010-2015
+  current: Postdoctoral Researcher, Rios Group, Prinses Maxima Centrum
+  extlink: https://research.prinsesmaximacentrum.nl/nl/team-members/florijn-dekkers
