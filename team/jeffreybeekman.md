@@ -17,7 +17,7 @@ Dr. J.M. Beekman obtained a PhD in molecular immunology in 2004, and performed m
 
 ‘People with chronic diseases living healthy lives: I strive to create breakthrough solutions for clinical needs of people with chronic diseases by scientific research that focuses on the development of novel diagnostic or therapeutic approaches. This requires a multidisciplinary approach in which basic and clinical research is aligned, and integrated with needs of patients, the private sector and regulatory authorities. Currently, I am particularly proud of leading a team that developed a highly innovative diagnostic assay that enables individualized therapy for people with cystic fibrosis that lead to direct clinical impact for people within 4 years after the initial discovery.’
 
-### CV
+### Experience
 - PhD,  Immunology, Utrecht University, Utrecht, The Netherlands (2000-2004)
 - Postdoctoral Research Associate, Radboud UMC, Nijmegen, The Netherlands (2004-2005)
 - Postdoctoral Research Associate, UMC Utrecht, Utrecht, The Netherlands (2005-2010)
