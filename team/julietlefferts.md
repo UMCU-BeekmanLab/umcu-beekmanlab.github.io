@@ -3,7 +3,7 @@ layout: member
 title: Juliet Lefferts
 position: PhD student
 handle: julietlefferts	
-email: j.w.lefferts@umcutrecht.nl
+email: j.w.lefferts[at]umcutrecht.nl
 twitter:
 github: 
 scholar: 
