@@ -24,6 +24,6 @@ Juliet: "I enjoy working at the Beekman lab because I can perform molecular rese
 
 ### Research Articles
 - Intestinal organoids for Cystic Fibrosis research; **J.W. Lefferts**, E. de Poel & J.M. Beekman; [Journal of Cystic Fibrosis](https://www-sciencedirect-com.proxy.library.uu.nl/science/article/pii/S1569199319309646) (2020)
-- A CRISPR-Cas9-based reporter system for single-cell detection of extracellular vesicle-mediated functional transfer of RNA, Olivier G. de Jong, Daniel E. Murphy, Imre Mäger, Eduard Willms, Antonio Garcia-Guerra, Jerney J. Gitz-Francois, **Juliet Lefferts**, Dhanu Gupta, Sander C. Steenbeek, Jacco van Rheenen, Samir El Andaloussi, Raymond M. Schiffelers, Matthew J. A. Wood & Pieter Vader: [Nature Communications](https://www-nature-com.proxy.library.uu.nl/articles/s41467-020-14977-8) (2020)
+- A CRISPR-Cas9-based reporter system for single-cell detection of extracellular vesicle-mediated functional transfer of RNA, Olivier G. de Jong, Daniel E. Murphy, Imre Mäger, Eduard Willms, Antonio Garcia-Guerra, Jerney J. Gitz-Francois, **Juliet Lefferts**, Dhanu Gupta, Sander C. Steenbeek, Jacco van Rheenen, Samir El Andaloussi, Raymond M. Schiffelers, Matthew J. A. Wood & Pieter Vader; [Nature Communications](https://www-nature-com.proxy.library.uu.nl/articles/s41467-020-14977-8) (2020)
 
 
