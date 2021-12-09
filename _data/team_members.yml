@@ -1,0 +1,108 @@
+- name: Jeffrey Beekman
+  photo: jeffreybeekman.jpg
+  info: Professor Cellular Disease Modelling
+  url: jeffreybeekman
+  group: 0
+  
+- name: Gimano Amatngalim
+  photo: 
+  info: Postdoctoral Fellow
+  url: gimanoamatngalim
+  group: 1
+
+- name: Martijn Koppens
+  photo: 
+  info: Postdoctoral Fellow
+  url: martijnkoppenss
+  group: 1
+
+- name: Sam van Beuningen
+  photo: samvanbeuningen.jpg
+  info: Senior Postdoctoral Data Scientist
+  url: samvanbeuningen
+  group: 1
+
+- name: Juliet Lefferts
+  photo: 
+  info: PhD student
+  url: julietlefferts
+  group: 2
+
+- name: Lisa Rodenburg
+  photo:
+  info: MD / PhD student
+  url: lisarodenburg
+  group: 2
+
+- name: Sacha Spelier
+  photo:
+  info: PhD student
+  url: sachaspelier
+  group: 2
+
+- name: Hetty Raeven
+  photo:
+  info: PhD student
+  url: hettyraeven
+  group: 2
+
+- name: Suzanne Kroes
+  photo:
+  info: PhD student
+  url: suzannekroes
+  group: 2
+
+- name: Bente Aalbers
+  photo:
+  info: MD / PhD student
+  url: benteaalbers
+  group: 2
+
+- name: Danya Muilwijk
+  photo:
+  info: MD / PhD student
+  url: danyamuilwijk
+  group: 2
+
+- name: Marlou Bierlaagh
+  photo:
+  info: MD / PhD student
+  url: marloubierlaagh
+  group: 2
+
+- name: Sylvia Suen
+  photo:
+  info: Senior Research Technician
+  url: sylviasuen
+  group: 3
+
+- name: Loes Oosterhoff
+  photo:
+  info: Senior Research Technician
+  url: loesoosterhoff
+  group: 3
+
+- name: Shannon Smits
+  photo:
+  info: Junior Research Technician
+  url: shannonsmits
+  group: 3
+
+- name: Isabelle van der Windt
+  photo:
+  info: Junior Research Technician
+  url: isabellevanderwindt
+  group: 3
+
+- name: Heleen van Kooten
+  photo:
+  info: Coordinator Translational Research
+  url: heleenvankooten
+  group: 3
+
+- name: Florijn Dekkers
+  info: PhD Student
+  group: 8
+  year: 2010-2015
+  current: Postdoctoral Researcher, Rios Group, Prinses Maxima Centrum
+  extlink: https://research.prinsesmaximacentrum.nl/nl/team-members/florijn-dekkers
