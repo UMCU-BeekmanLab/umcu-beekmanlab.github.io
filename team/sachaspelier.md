@@ -3,7 +3,7 @@ layout: member
 title: Sacha Spelier
 position: PhD student
 handle: sachaspelier
-email: a.spelier-2@umcutrecht.nl
+email: a.spelier-2[at]umcutrecht.nl
 twitter:
 github: 
 scholar: 
