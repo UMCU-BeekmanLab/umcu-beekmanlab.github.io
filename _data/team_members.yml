@@ -5,9 +5,9 @@
   group: 0
   
 - name: Gimano Amatngalim
-  photo: 
+  photo: einstein.jpg
   info: Postdoctoral Fellow
-  url: gimanoamatngalim
+  url: #gimanoamatngalim
   group: 1
 
 - name: Martijn Koppens
@@ -41,51 +41,45 @@
   group: 2
 
 - name: Hetty Raeven
-  photo:
+  photo: einstein.jpg
   info: PhD student
-  url: hettyraeven
+  url: #hettyraeven
   group: 2
 
 - name: Suzanne Kroes
-  photo:
+  photo: einstein.jpg
   info: PhD student
-  url: suzannekroes
-  group: 2
-
-- name: Bente Aalbers
-  photo:
-  info: MD / PhD student
-  url: benteaalbers
+  url: #suzannekroes
   group: 2
 
 - name: Danya Muilwijk
-  photo:
+  photo: einstein.jpg
   info: MD / PhD student
-  url: danyamuilwijk
+  url: #danyamuilwijk
   group: 2
 
 - name: Marlou Bierlaagh
-  photo:
+  photo: einstein.jpg
   info: MD / PhD student
-  url: marloubierlaagh
+  url: #marloubierlaagh
   group: 2
 
 - name: Sylvia Suen
-  photo:
+  photo: einstein.jpg
   info: Senior Research Technician
-  url: sylviasuen
+  url: #sylviasuen
   group: 3
 
 - name: Loes Oosterhoff
-  photo:
+  photo: einstein.jpg
   info: Senior Research Technician
-  url: loesoosterhoff
+  url: #loesoosterhoff
   group: 3
 
 - name: Shannon Smits
-  photo:
+  photo: einstein.jpg
   info: Junior Research Technician
-  url: shannonsmits
+  url: #shannonsmits
   group: 3
 
 - name: Isabelle van der Windt
@@ -95,9 +89,9 @@
   group: 3
 
 - name: Heleen van Kooten
-  photo:
+  photo: heleenvankooten.jpg
   info: Coordinator Translational Research
-  url: heleenvankooten
+  url: #heleenvankooten
   group: 3
 
 - name: Bente Aalbers
