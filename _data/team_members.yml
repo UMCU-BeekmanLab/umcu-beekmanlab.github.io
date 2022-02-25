@@ -11,9 +11,9 @@
   group: 1
 
 - name: Martijn Koppens
-  photo: 
+  photo: martijnkoppens.jpg
   info: Postdoctoral Fellow
-  url: martijnkoppenss
+  url: martijnkoppens
   group: 1
 
 - name: Sam van Beuningen
@@ -89,7 +89,7 @@
   group: 3
 
 - name: Isabelle van der Windt
-  photo:
+  photo: isabellevanderwindt.jpg
   info: Junior Research Technician
   url: isabellevanderwindt
   group: 3
@@ -99,6 +99,12 @@
   info: Coordinator Translational Research
   url: heleenvankooten
   group: 3
+
+- name: Bente Aalbers
+  info: MD / PhD Student
+  group: 8
+  year: 2018-2021
+  current: Resident, Department of Pulmonology, UMC Utrecht
 
 - name: Florijn Dekkers
   info: PhD Student
