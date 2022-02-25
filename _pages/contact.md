@@ -13,7 +13,7 @@ permalink: /contact/
 The Beekman Lab is located in the Regenative Medicine Centre Utrecht at the Utrecht Science Park
 
 Regenative Medicine Centre Utrecht<br/>
-Hubrecht Institue Building<br/>
+Hubrecht Institute Building<br/>
 Uppsalaan 8<br/>
 3584 CT Utrecht<br/>
 The Netherlands<br/>
