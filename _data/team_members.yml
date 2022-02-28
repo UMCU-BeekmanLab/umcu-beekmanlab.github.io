@@ -64,16 +64,16 @@
   url: #marloubierlaagh
   group: 2
 
-- name: Sylvia Suen
-  photo: einstein.jpg
-  info: Senior Research Technician
-  url: #sylviasuen
-  group: 3
-
 - name: Loes Oosterhoff
   photo: einstein.jpg
   info: Senior Research Technician
   url: #loesoosterhoff
+  group: 3
+
+- name: Natascha Nieuwenhuijze
+  photo: einstein.jpg
+  info: Senior Research Technician
+  url: #nataschanieuwenhuijze
   group: 3
 
 - name: Shannon Smits
@@ -93,6 +93,12 @@
   info: Coordinator Translational Research
   url: heleenvankooten
   group: 3
+
+- name: Sylvia Suen
+  info: Research Technician
+  group: 8
+  year: 2018-2022
+  current: Xilis
 
 - name: Bente Aalbers
   info: MD / PhD Student
