@@ -43,7 +43,7 @@
 - name: Hetty Raeven
   photo: einstein.jpg
   info: PhD student
-  url: #hettyraeven
+  url: hettyraeven
   group: 2
 
 - name: Suzanne Kroes
@@ -67,7 +67,7 @@
 - name: Loes Oosterhoff
   photo: einstein.jpg
   info: Senior Research Technician
-  url: #loesoosterhoff
+  url: loesoosterhoff
   group: 3
 
 - name: Natascha Nieuwenhuijze
@@ -86,6 +86,12 @@
   photo: isabellevanderwindt.jpg
   info: Junior Research Technician
   url: isabellevanderwindt
+  group: 3
+
+- name: Nefeli Ithakisiou
+  photo: einstein.jpg
+  info: Junior Research Technician
+  url: nefeliithakisiou
   group: 3
 
 - name: Heleen van Kooten
