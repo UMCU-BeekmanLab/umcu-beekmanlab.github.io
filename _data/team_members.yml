@@ -41,9 +41,9 @@
   group: 2
 
 - name: Hetty Raeven
-  photo: einstein.jpg
+  photo: hettyraeven.jpg
   info: PhD student
-  url: #hettyraeven
+  url: hettyraeven
   group: 2
 
 - name: Suzanne Kroes
@@ -64,16 +64,16 @@
   url: #marloubierlaagh
   group: 2
 
-- name: Sylvia Suen
-  photo: einstein.jpg
+- name: Loes Oosterhoff
+  photo: loesoosterhoff.jpg
   info: Senior Research Technician
-  url: #sylviasuen
+  url: loesoosterhoff
   group: 3
 
-- name: Loes Oosterhoff
+- name: Natascha Nieuwenhuijze
   photo: einstein.jpg
   info: Senior Research Technician
-  url: #loesoosterhoff
+  url: #nataschanieuwenhuijze
   group: 3
 
 - name: Shannon Smits
@@ -88,11 +88,23 @@
   url: isabellevanderwindt
   group: 3
 
+- name: Nefeli Ithakisiou
+  photo: einstein.jpg
+  info: Junior Research Technician
+  url: nefeliithakisiou
+  group: 3
+
 - name: Heleen van Kooten
   photo: heleenvankooten.jpg
   info: Coordinator Translational Research
   url: heleenvankooten
   group: 3
+
+- name: Sylvia Suen
+  info: Research Technician
+  group: 8
+  year: 2018-2022
+  current: Xilis
 
 - name: Bente Aalbers
   info: MD / PhD Student
